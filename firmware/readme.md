@@ -3,7 +3,10 @@ MIST Firmware
 
 These are the binary releases of the MIST firmware.
 
-See the [wiki](https://github.com/mist-devel/mist-board/wiki) for [details how to install it](https://github.com/mist-devel/mist-board/wiki/HowToInstallTheFirmware).
+See the [wiki](https://github.com/mist-devel/mist-board/wiki) for [details how to install it](https://github.com/mist-devel/mist-board/wiki/HowToInstallTheFirmware). A quick reminder of what the files are:
+
+- firmware.bin requires using special flashers
+- firmware.upg can be used via the on-screen-display (OSD) menu on your current device
 
 Please read the txt file accompaning the firmware to check whether this update is of any benefit for your use case. In many cases updates only affect certain cores.
 
